@@ -1,0 +1,7 @@
+name: ZPrisons
+description: "The final ZPrisons core..."
+author: Taco
+version: 1.0-BETA
+api: "3.0.0"
+main: Taco\ZP\Core
+
